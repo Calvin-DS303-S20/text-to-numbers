@@ -1,0 +1,19 @@
+---
+title: "Text to Numbers - Reporter's Notebook"
+author: "YOUR TEAM MEMBERS"
+date: "TODAY'S DATE"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Analyze
+
+## Chunk 1
+
+*Prediction*: no output
+
+*Actual*: no output :thumbsup:
+
